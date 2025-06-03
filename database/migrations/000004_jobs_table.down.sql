@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS jobs;
+DROP INDEX IF EXISTS idx_jobs_user_id;
